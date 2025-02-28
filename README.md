@@ -1,10 +1,10 @@
 
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-TeamMates%20Kumar-red)
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/TeamMateskumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
 ### Invoice
